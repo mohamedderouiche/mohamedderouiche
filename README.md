@@ -1,6 +1,6 @@
 # 💫 About Me  
 
-
+[![Profile Views](https://visitcount.itsvg.in/api?id=rouamn&icon=0&color=0)](https://visitcount.itsvg.in)
 Hi 👋, I'm *Mohamed Amine Derouiche*, a passionate *Software Engineering student* (final year) from Tunisia.  
 I love exploring new technologies, languages, and frameworks to stay at the forefront of software development. I'm constantly working on improving my coding skills and knowledge to create impactful applications.
 
